@@ -1,11 +1,10 @@
-print ("hello world")
-print ("This project folder is for fun stuff")
-
 x = 25 
-y = 5 
-if x > 0:
-    print ("Decreasing by 5")
-    print (x)
-    x = x - y 
-    print(x)
+y = 23432
+z = 0
+
+if x > y:
+    print("x is cool")
+    if y > x:
+        print ("y is cool")
+    print ("z is just hanging out")
 
